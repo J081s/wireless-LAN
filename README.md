@@ -9,7 +9,7 @@ The project is aimed at **students, educators, and networking enthusiasts** who 
 ---
 ---
 ## Network Topolgy
-Below os the acreen of the LAN Builtin packet tracer
+Below is  the screen of the LAN Builtin packet tracer
 
 ---[Netetwork Topoly](/pic.png)
 > if the image does  not display, please open the 'screenshot/png' file directory in this repository
