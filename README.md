@@ -6,7 +6,13 @@ The project is aimed at **students, educators, and networking enthusiasts** who 
 ---
 ## 📂 Project Files
 - **`wireless connection.pkt`** → Cisco Packet Tracer project file containing the wireless network simulation.
+---
+---
+## Network Topolgy
+Below os the acreen of the LAN Builtin packet tracer
 
+---[Netetwork Topoly](/pic.png)
+> if the image does  not display, please open the 'screenshot/png' file directory in this repository
 ---
 
 ## 🛠 Requirements
